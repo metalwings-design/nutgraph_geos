@@ -1,0 +1,13 @@
+cell_id,grid_row,grid_col,pixel_count,ndvi_mean,ndvi_std,ndvi_min,ndvi_max,ndbi_mean,ndbi_std,dw_2019_mode,dw_mode_share_pct,copernicus_2019_mode,cop_mode_share_pct
+C01,1,1,3780,0.12,0.045,0.067,0.418,0.076,0.026,Bare,99.5,Shrubland,94.4
+C02,1,2,3717,0.169,0.107,0.06,0.664,0.071,0.053,Bare,69.8,Bare / Sparse vegetation,39.5
+C03,1,3,3717,0.103,0.05,0.054,0.393,0.1,0.015,Bare,92.7,Bare / Sparse vegetation,80.1
+C04,1,4,3780,0.183,0.141,-0.021,0.696,0.074,0.08,Bare,49.0,Cultivated / Agriculture,62.8
+C05,2,1,3840,0.138,0.043,0.07,0.486,0.095,0.034,Bare,73.3,Shrubland,95.3
+C06,2,2,3776,0.133,0.071,0.068,0.533,0.082,0.04,Bare,90.1,Shrubland,92.6
+C07,2,3,3776,0.137,0.053,0.068,0.436,0.099,0.022,Bare,69.1,Cultivated / Agriculture,41.9
+C08,2,4,3840,0.255,0.182,0.072,0.84,0.046,0.126,Crops,68.9,Cultivated / Agriculture,98.0
+C09,3,1,3780,0.147,0.041,0.067,0.449,0.089,0.043,Bare,75.2,Shrubland,96.6
+C10,3,2,3717,0.119,0.03,0.067,0.386,0.101,0.026,Bare,93.1,Shrubland,98.4
+C11,3,3,3717,0.119,0.044,0.067,0.585,0.102,0.019,Bare,90.5,Shrubland,81.0
+C12,3,4,3780,0.11,0.034,0.066,0.332,0.106,0.017,Bare,89.9,Shrubland,50.0

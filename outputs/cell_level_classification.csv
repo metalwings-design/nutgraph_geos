@@ -1,0 +1,13 @@
+cell_id,grid_row,grid_col,pixel_count,visual_label,visual_cue,visual_confidence,primary_label,primary_uncertainty,dw_2019_mode,dw_harmonized,dw_mode_share_pct,copernicus_2019_mode,copernicus_harmonized,cop_mode_share_pct,ndvi_mean,ndvi_max,ndbi_mean
+C01,1,1,3780,Scrub / Shrubland,"Low-contrast diffuse texture, sparse thorny scrub",Medium,Bare Ground,Low,Bare,Bare Ground,99.5,Shrubland,Scrub / Shrubland,94.4,0.12,0.418,0.076
+C02,1,2,3717,,,,Scrub / Shrubland,High,Bare,Bare Ground,69.8,Bare / Sparse vegetation,Bare Ground,39.5,0.169,0.664,0.071
+C03,1,3,3717,Bare Ground,"High albedo, uniform bare sandy soil",High,Bare Ground,Medium,Bare,Bare Ground,92.7,Bare / Sparse vegetation,Bare Ground,80.1,0.103,0.393,0.1
+C04,1,4,3780,Cropland,Rectilinear field parcel boundary,High,Cropland,High,Bare,Bare Ground,49.0,Cultivated / Agriculture,Cropland,62.8,0.183,0.696,0.074
+C05,2,1,3840,,,,Scrub / Shrubland,Low,Bare,Bare Ground,73.3,Shrubland,Scrub / Shrubland,95.3,0.138,0.486,0.095
+C06,2,2,3776,,,,Scrub / Shrubland,Medium,Bare,Bare Ground,90.1,Shrubland,Scrub / Shrubland,92.6,0.133,0.533,0.082
+C07,2,3,3776,Mixed (Bare/Scrub),Transitional terrain between bare soil and scrub,Low,Scrub / Shrubland,Medium,Bare,Bare Ground,69.1,Cultivated / Agriculture,Cropland,41.9,0.137,0.436,0.099
+C08,2,4,3840,,,,Cropland,High,Crops,Cropland,68.9,Cultivated / Agriculture,Cropland,98.0,0.255,0.84,0.046
+C09,3,1,3780,Scrub / Shrubland,"Patchy surface roughness, grazing commons scrub",Medium,Scrub / Shrubland,Low,Bare,Bare Ground,75.2,Shrubland,Scrub / Shrubland,96.6,0.147,0.449,0.089
+C10,3,2,3717,,,,Bare Ground,Low,Bare,Bare Ground,93.1,Shrubland,Scrub / Shrubland,98.4,0.119,0.386,0.101
+C11,3,3,3717,Bare Ground,Monolithic high albedo with drainage fringe,Medium,Bare Ground,Low,Bare,Bare Ground,90.5,Shrubland,Scrub / Shrubland,81.0,0.119,0.585,0.102
+C12,3,4,3780,,,,Bare Ground,Low,Bare,Bare Ground,89.9,Shrubland,Scrub / Shrubland,50.0,0.11,0.332,0.106
